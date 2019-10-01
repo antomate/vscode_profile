@@ -1,7 +1,7 @@
 {
     // EDITOR
     "editor.fontSize": 12,
-    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontFamily": "'Cascadia Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "editor.fontWeight": "normal",
     "editor.fontLigatures": true,
     "editor.letterSpacing": 0,
@@ -19,7 +19,7 @@
     "editor.find.seedSearchStringFromSelection": true,
     "editor.folding": true,
     "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": false,
     "editor.formatOnType": false,
     "editor.hideCursorInOverviewRuler": false,
     "editor.overviewRulerLanes": 3,
